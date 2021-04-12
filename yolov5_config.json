@@ -1,0 +1,10 @@
+{
+	"source": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov\n",
+	"weights": "weights/best.pt",
+	"device": "cpu",
+	"imgsz": 640,
+	"stride": 32,
+	"conf_thres": 0.35,
+	"iou_thres": 0.45,
+	"augment": false
+}

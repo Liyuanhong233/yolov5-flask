@@ -1,0 +1,39 @@
+<html>
+  <head>
+	<style>
+	* {
+	  box-sizing: border-box;
+	  text-align: center;
+	}
+
+	.img-container {
+	  float: left;
+	  width: 30%;
+	  padding: 5px;
+	}
+
+	.clearfix::after {
+	  content: "";
+	  clear: both;
+	  display: table;
+	}
+	.clearfix{
+		margin-left: 500px;
+	}
+	</style>
+  </head>
+  <body>
+  	<h1>Multi-camera with YOLOv5</h1>
+  	<div class="clearfix">
+  		<div class="img-container" align="center">
+        	<p align="center">Live stream 1</p>
+        	<img src="{{ url_for('video_feed', feed_type='Camera_0') }}" class="center"  style="border:1px solid black;width:100%" alt="Live Stream 1">
+  		</div>
+  		<div class="img-container" align="center">
+        	<p align="center">Live stream 2</p>
+        	<img src="{{ url_for('video_feed', feed_type='Camera_1') }}" class="center"  style="border:1px solid black;width:100%" alt="Live Stream 2">
+  		</div>
+	</div>
+  </body>
+</html>
+

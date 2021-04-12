@@ -1,0 +1,97 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="66">
+            <item index="0" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="1" class="java.lang.String" itemvalue="torch" />
+            <item index="2" class="java.lang.String" itemvalue="numpy" />
+            <item index="3" class="java.lang.String" itemvalue="torchvision" />
+            <item index="4" class="java.lang.String" itemvalue="scipy" />
+            <item index="5" class="java.lang.String" itemvalue="Shapely" />
+            <item index="6" class="java.lang.String" itemvalue="ipython" />
+            <item index="7" class="java.lang.String" itemvalue="Flask" />
+            <item index="8" class="java.lang.String" itemvalue="plumbum" />
+            <item index="9" class="java.lang.String" itemvalue="Pillow" />
+            <item index="10" class="java.lang.String" itemvalue="PIL" />
+            <item index="11" class="java.lang.String" itemvalue="opencv" />
+            <item index="12" class="java.lang.String" itemvalue="altgraph" />
+            <item index="13" class="java.lang.String" itemvalue="protobuf" />
+            <item index="14" class="java.lang.String" itemvalue="paddleocr" />
+            <item index="15" class="java.lang.String" itemvalue="nltk" />
+            <item index="16" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="17" class="java.lang.String" itemvalue="funcsigs" />
+            <item index="18" class="java.lang.String" itemvalue="np-utils" />
+            <item index="19" class="java.lang.String" itemvalue="PyQt5-sip" />
+            <item index="20" class="java.lang.String" itemvalue="pyclipper" />
+            <item index="21" class="java.lang.String" itemvalue="requests" />
+            <item index="22" class="java.lang.String" itemvalue="imgaug" />
+            <item index="23" class="java.lang.String" itemvalue="lmdb" />
+            <item index="24" class="java.lang.String" itemvalue="paddlepaddle" />
+            <item index="25" class="java.lang.String" itemvalue="pathlib" />
+            <item index="26" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="27" class="java.lang.String" itemvalue="pywin32-ctypes" />
+            <item index="28" class="java.lang.String" itemvalue="rarfile" />
+            <item index="29" class="java.lang.String" itemvalue="py-notifier" />
+            <item index="30" class="java.lang.String" itemvalue="pyinstaller" />
+            <item index="31" class="java.lang.String" itemvalue="pywin32" />
+            <item index="32" class="java.lang.String" itemvalue="pyperclip" />
+            <item index="33" class="java.lang.String" itemvalue="pytesseract" />
+            <item index="34" class="java.lang.String" itemvalue="system-hotkey" />
+            <item index="35" class="java.lang.String" itemvalue="pefile" />
+            <item index="36" class="java.lang.String" itemvalue="pyinstaller-hooks-contrib" />
+            <item index="37" class="java.lang.String" itemvalue="chardet" />
+            <item index="38" class="java.lang.String" itemvalue="objgraph" />
+            <item index="39" class="java.lang.String" itemvalue="prettytable" />
+            <item index="40" class="java.lang.String" itemvalue="pypiwin32" />
+            <item index="41" class="java.lang.String" itemvalue="scikit-image" />
+            <item index="42" class="java.lang.String" itemvalue="tzlocal" />
+            <item index="43" class="java.lang.String" itemvalue="python-docx" />
+            <item index="44" class="java.lang.String" itemvalue="networkx" />
+            <item index="45" class="java.lang.String" itemvalue="six" />
+            <item index="46" class="java.lang.String" itemvalue="PyInstaller" />
+            <item index="47" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="48" class="java.lang.String" itemvalue="paddlepaddle-gpu" />
+            <item index="49" class="java.lang.String" itemvalue="imageio" />
+            <item index="50" class="java.lang.String" itemvalue="playsound" />
+            <item index="51" class="java.lang.String" itemvalue="Js2Py" />
+            <item index="52" class="java.lang.String" itemvalue="certifi" />
+            <item index="53" class="java.lang.String" itemvalue="QtAwesome" />
+            <item index="54" class="java.lang.String" itemvalue="PyExecJS" />
+            <item index="55" class="java.lang.String" itemvalue="pytz" />
+            <item index="56" class="java.lang.String" itemvalue="urllib3" />
+            <item index="57" class="java.lang.String" itemvalue="idna" />
+            <item index="58" class="java.lang.String" itemvalue="pyjsparser" />
+            <item index="59" class="java.lang.String" itemvalue="tqdm" />
+            <item index="60" class="java.lang.String" itemvalue="regex" />
+            <item index="61" class="java.lang.String" itemvalue="tifffile" />
+            <item index="62" class="java.lang.String" itemvalue="joblib" />
+            <item index="63" class="java.lang.String" itemvalue="graphviz" />
+            <item index="64" class="java.lang.String" itemvalue="gast" />
+            <item index="65" class="java.lang.String" itemvalue="opencv-python-headless" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="yiweihua.test_db" />
+          <option value="yiweihua.train_db" />
+          <option value="analyze.*" />
+          <option value="mnist.data_tf" />
+          <option value="mnist.n_hidden_2" />
+          <option value="mnist.*" />
+          <option value="iris.Data" />
+          <option value="crossval.feedforward" />
+          <option value="DisplayUI" />
+          <option value="MainWinVerticalLayout" />
+          <option value="utils.utils" />
+          <option value="utils.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
